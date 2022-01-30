@@ -1,5 +1,5 @@
 
-package chess;
+package BasicChess;
 
 import java.awt.Dimension;
 import java.awt.Graphics;
