@@ -1,4 +1,4 @@
-package chess;
+package BasicChess;
 
 public class SingleMove implements Move {
 
