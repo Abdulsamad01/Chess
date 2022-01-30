@@ -1,4 +1,4 @@
-package chess;
+package BasicChess;
 
 import static chess.PieceType.*;
 
