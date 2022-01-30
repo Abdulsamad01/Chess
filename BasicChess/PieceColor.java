@@ -1,4 +1,4 @@
-package chess;
+package BasicChess;
 
 enum PieceColor {
 
