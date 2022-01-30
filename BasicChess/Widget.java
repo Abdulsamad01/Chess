@@ -1,5 +1,5 @@
 
-package chess;
+package BasicChess;
 
 import javax.swing.JComponent;
 
